@@ -22,8 +22,11 @@ Key rules extracted from the statement:
 
  2.  Entity Relationship Diagram (ERD)
   
-<img width="467" height="458" alt="image" src="https://github.com/user-attachments/assets/2bc91881-8328-48f6-a8e1-c19beb651423" />
 
+<h2>Entity Relationship Diagram (ERD)</h2>
+
+<img width="800" alt="University Course Registration ERD"
+src="YOUR_IMAGE_URL_HERE" />
 
  3. Screenshots demonstrating successful table generation and relationship mappings
 
