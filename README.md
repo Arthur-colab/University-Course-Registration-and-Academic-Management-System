@@ -25,9 +25,8 @@ Key rules extracted from the statement:
   <h2>Entity Relationship Diagram</h2>
 
 
+<img width="467" height="458" alt="image" src="https://github.com/user-attachments/assets/2bc91881-8328-48f6-a8e1-c19beb651423" />
 
-
-<img width="1420" height="2828" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/1670d70a-eda8-44b3-865e-87a973678b8a" />
 
 
 
