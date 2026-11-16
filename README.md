@@ -21,12 +21,13 @@ Key rules extracted from the statement:
 • Students and courses are many-to-many, but the link carries extra data (so a join entity).
 
  2.  Entity Relationship Diagram (ERD)
-  
 
-<h2>Entity Relationship Diagram (ERD)</h2>
+  <h2>Entity Relationship Diagram</h2>
 
-<img width="800" alt="University Course Registration ERD"
-src="YOUR_IMAGE_URL_HERE" />
+<img width="800" alt="University ERD"
+src="documentation/erd.png" />
+
+
 
  3. Screenshots demonstrating successful table generation and relationship mappings
 
