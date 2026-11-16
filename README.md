@@ -24,8 +24,10 @@ Key rules extracted from the statement:
 
   <h2>Entity Relationship Diagram</h2>
 
-<img width="800" alt="University ERD"
-src="documentation/erd.png" />
+
+
+
+<img width="1420" height="2828" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/1670d70a-eda8-44b3-865e-87a973678b8a" />
 
 
 
